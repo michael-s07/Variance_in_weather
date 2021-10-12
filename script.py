@@ -4,7 +4,7 @@ Created on Tue Oct 12 16:15:51 2021
 
 @author: sosum
 """
-import codecademylib3_seaborn
+#import codecademylib3_seaborn
 import pandas as pd
 import numpy as np
 from weather_data import london_data
